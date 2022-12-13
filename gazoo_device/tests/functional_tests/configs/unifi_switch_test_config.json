@@ -1,0 +1,7 @@
+{
+  "shell_cmd": "info",
+  "expect": ["Version:\\s+(\\S+)"],
+  "do_not_run_tests": [],
+  "slow_tests": [],
+  "volatile_tests": []
+}
